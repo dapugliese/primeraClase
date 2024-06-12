@@ -17,6 +17,7 @@ namespace principal {
                 firulai.edad = 2;
 
                 firulai.tamano = "grande";
+                firulai.nombre = "Firulais";
 
                 firulai.raza = "caniche";
 
@@ -24,6 +25,16 @@ namespace principal {
                 firulai.jugar("domirse");
 
                 Console.WriteLine(firulai.ladrar());
+
+                pedro.edad = 4;
+                pedro.nombre = "Pedro";
+                pedro.raza = "salchicha";
+                pedro.tamano = "mediano";
+
+                pedro.mostrarAtributos();
+
+
+                firulai.mostrarAtributos();
 
             }
     }

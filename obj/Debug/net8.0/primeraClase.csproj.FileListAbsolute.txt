@@ -12,3 +12,4 @@
 /home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.pdb
 /home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.genruntimeconfig.cache
 /home/et12alumno/primeraClase/obj/Debug/net8.0/ref/primeraClase.dll
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.sourcelink.json
