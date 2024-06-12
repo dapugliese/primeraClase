@@ -1,0 +1,14 @@
+/home/et12alumno/primeraClase/bin/Debug/net8.0/primeraClase
+/home/et12alumno/primeraClase/bin/Debug/net8.0/primeraClase.deps.json
+/home/et12alumno/primeraClase/bin/Debug/net8.0/primeraClase.runtimeconfig.json
+/home/et12alumno/primeraClase/bin/Debug/net8.0/primeraClase.dll
+/home/et12alumno/primeraClase/bin/Debug/net8.0/primeraClase.pdb
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.AssemblyInfoInputs.cache
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.AssemblyInfo.cs
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.csproj.CoreCompileInputs.cache
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.dll
+/home/et12alumno/primeraClase/obj/Debug/net8.0/refint/primeraClase.dll
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.pdb
+/home/et12alumno/primeraClase/obj/Debug/net8.0/primeraClase.genruntimeconfig.cache
+/home/et12alumno/primeraClase/obj/Debug/net8.0/ref/primeraClase.dll
